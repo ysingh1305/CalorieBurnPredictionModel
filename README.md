@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy
 ```
 
 ## Dataset
-You must  download the gym_members_data.csv and run the jupyter notebook within the same repository of the csv file.
+You must  download the gym_members_data.csv and run the jupyter notebook within the same directory of the csv file.
 
 ## Running the Jupyter Notebook
 Open and execute the customer_churn_prediction_CS210.ipynb Jupyter Notebook cell by cell to train and evaluate the model.
