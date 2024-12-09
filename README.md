@@ -23,6 +23,7 @@ You can install the required libraries using:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy
+```
 
 ## Dataset
 You must also download the gym_members_data.csv and run the jupyter notebook within the same repository of the csv file.
